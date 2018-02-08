@@ -99,7 +99,7 @@ section .panel-primary .panel-title {
 }
 
 section .cont-part2 .panel-body{
-	height: 180px;
+	height: 130px;
 	padding-left: 15px;
 }
 
@@ -192,8 +192,9 @@ section .cont-part4 .panel-body h4{
 section .cont-part4 .panel-body ul li{
 	color: #fff;
 	text-align: left;
-	padding-top: 5px;
 	font-size: 16px;
+	padding-bottom: 20px;
+
 }
 
 section .cont-part4 .panel-body a{
@@ -204,10 +205,10 @@ section .cont-part4 .panel-body a{
 
 section .cont-part4 .getting-started .panel-body {
 	padding-top: 30px;
+	height: 355px;
 }
 
 section .cont-part4 .getting-started .panel-body  ul li{
-	padding-top: 35px;
 	text-align: left;
 	padding-bottom: 20px;
 }
